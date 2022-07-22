@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+- 🌱 I’m currently studing at Microverse
+- 👯 I’m looking to collaborate on Web projects
+- 💬 Ask me about coding 
+- 📫 How to reach me: [My Twitter!](https://twitter.com/)
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

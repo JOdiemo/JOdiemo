@@ -1,23 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am Jorum!!!
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-Here are some ideas to get you started:
 
 - 🌱 I’m currently studing at Microverse
 - 👯 I’m looking to collaborate on Web projects
 - 💬 Ask me about coding 
 - 📫 How to reach me: [My Twitter!](https://twitter.com/)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning React, Ruby and Ruby on Rails
+- 📫 How to reach me: odiemo@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover
